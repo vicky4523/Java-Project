@@ -21,7 +21,7 @@ public class ArrayClassDemo {
 		//binary search it won't work unless array is sorted 
 		System.out.println("Element is at pos: " +Arrays.binarySearch(arr, 45));
 		
-		//for the second 45
+		//for the second 45 it is actually drawback of array
 		System.out.println("Element is at pos: " +Arrays.binarySearch(arr, 0, 8, 45));
 		//(array name, starting index, ending index, key element)
 		
