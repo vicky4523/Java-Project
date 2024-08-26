@@ -31,7 +31,9 @@ public class ArrayClassDemo {
 		//for 7
 		System.out.println("Element is at pos: " +Arrays.binarySearch(arr, 1, 8, 7));// how -2??
 		
-
+		//length
+		System.out.println("Length of array: "+arr.length);
+		
 	}
 
 }
