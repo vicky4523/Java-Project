@@ -1,5 +1,7 @@
 package com.tnsif.day13;
 
+//check day 17 program
+
 public class StringMethod1 {
 
 	public static void main(String[] args) {
@@ -10,7 +12,9 @@ public class StringMethod1 {
 		 System.out.println("Comparision using equals " +s.equals(s1));// .operator u use itll show true
 		 System.out.println("Comparision using compareTO " +s.compareTo(s1));//compare to operator will return false
 		 
-//		 String a =s.toUpperCase();
+//		 String a =s.toUpperCase();s
 //		 System.out.println(a.equals(s1));   just trying yo make the output true when s = " reva ";
+		 
+		 //Put +(s==s1) you will get true
 	}
 }
