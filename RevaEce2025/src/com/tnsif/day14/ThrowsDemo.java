@@ -1,9 +1,13 @@
 package com.tnsif.day14;
 
+import java.io.IOException;
+
+//Incomplete Program
+
 //can't put public class demo it wont accept if u use public u need to declare in a new file
 //you need to import IOException for the code to be executed
 
-class demo{ 
+class demo1{ 
 	
 	void m1()
 	{
@@ -24,8 +28,7 @@ class demo{
 public class ThrowsDemo {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		demo1 d = new demo1(); 
 	}
 
 }
