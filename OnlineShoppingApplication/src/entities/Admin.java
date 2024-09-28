@@ -8,5 +8,4 @@ public class Admin extends User {
 		super(userId, username, email);
 	}
 	
-
 }
